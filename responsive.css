@@ -1,0 +1,97 @@
+@media screen and (max-width: 1023px) {
+   .left_arrow, .main_text, .right_arrow{
+       display: none;
+   }
+   
+    .top_header{
+        
+        align-items: unset;
+        padding-top: 0px; 
+    }
+
+    .box{
+        flex: 1;
+    }
+
+    .top_navbar ul{
+        box-shadow: none;
+        height: 85px;
+        align-items: center;
+    }
+
+    .main_logo{
+       background-color: rgb(59, 57, 57); 
+       width: 50px;
+    }
+
+    
+    .top_navbar{
+        
+    }
+
+    .main_video img{
+        
+        width: 100%;
+    }
+
+
+    .lorem h2, .april, .scrol {
+        display: none;
+    }
+
+    .mother_box{
+        display: inline-flex;
+       
+    }
+    .second_box, .third_box{
+        /* flex: 1; */
+    }
+    .second_box{
+        position: relative;
+        left: 0px; 
+    }
+    .first_box, .second_box{
+        width: 50%;
+    }
+    .third_box{
+        width: 100%;
+        position: relative;
+        top: 0%;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
